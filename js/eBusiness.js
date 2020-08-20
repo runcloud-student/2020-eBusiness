@@ -1,4 +1,4 @@
-var laptops = [
+var products = [
     {"Category": "Men", "Name":"Gray Shoe", "Price": "$20.00", "Image": "prod_2.png"},
     {"Category": "Men", "Name":"Blue Shoe High Heels", "Price": "$28.00", "Image": "hero_1.png"},
     {"Category": "Men", "Name":"Kindao Jacket", "Price": "$158.00", "Image": "model_2.png"},
